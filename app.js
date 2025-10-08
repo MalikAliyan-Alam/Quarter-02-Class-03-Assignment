@@ -1,3 +1,4 @@
+
 console.log("Javascript Connected!");
 // var firstName = prompt("Enter Your First Name" , "Malik");
 // var lastName = prompt("Enter Your Last Name" , "Aliyan");
@@ -38,7 +39,64 @@ console.log("Javascript Connected!");
 
 // Assignment 21 part 5 completed
 
+// let city = "hyderabad";
+// let update =city.replace("hyder" , "islam");
+// document.write("City : "  + city + "<br/>");   
+// document.write("After changing the value : " + update);   
+
+// Assignment 21 part 6 completed
+
+// var message = `Ali and Sami are best friends. They play cricket and
+// football together.`;
+
+// let update = message.replaceAll("and" , "&");
+// document.write(update);
+
+// Assignment 21 part 7 completed
+
+// var numInStr = "472";
+// var numInNum = Number(numInStr);
+
+// console.log("Number But in str type : " + numInStr);
+// console.log(typeof numInStr);
+// console.log("Number type : " + numInNum);
+// console.log(typeof numInNum);
 
 
-// Assignment 21 part 5 completed
+// Assignment 21 part 8 completed
 
+// var userInput = prompt("write anything!");
+// var upparCase = userInput.toUpperCase();
+
+// alert(upparCase);
+
+// Assignment 21 part 9 completed
+
+// var userInput = "uSama";
+// var capitalize = "";
+// for(var i = 0; i < userInput.length; i++){
+//     var isStart = true;
+//     if(isStart){
+//         userInput[i].toUpperCase();
+//         capitalize += userInput[i];
+//         isStart = false;
+    
+//     }else{
+//         userInput[i].toLowerCase();
+//         capitalize += userInput[i];
+
+//     }
+
+//     if(userInput[i] === " "){
+//         isStart =true;
+//     }
+// }
+
+// console.log(capitalize);
+
+
+
+// Assignment 21 part 10 completed
+
+
+// Assignment 21 part 11 completed
